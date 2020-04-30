@@ -9,7 +9,6 @@ while int(num) < 1:
   num = input ("Please enter a positive integer number: ")
 
 a = int(num)
-
 prime = []
 
 if a < 11:
