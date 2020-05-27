@@ -1,0 +1,38 @@
+kindle_store:
+  kindle_eBooks:
+    Literature & Fiction:
+      - The Scent Keeper:
+        - Author: Erica Bauermeister
+        - Price:
+          - kindle: 11.79
+            digital_list_price:	11.89
+            print_list_price:	16.99
+            kindle_price:	11.79
+            ---
+            Save $5.20 (31%)
+            includes free international 
+            wireless delivery via 
+            Amazon Whispernet
+          - audiobook: 0.00
+          - hardcover: 17.62
+          - paperback: 13.00
+        - summary: |
+        Erica Bauermeister, the national bestselling author of The School of Essential Ingredients, 
+        presents a moving and evocative coming-of-age novel about childhood stories, families lost and 
+        found, and how a fragrance conjures memories capable of shaping the course of our lives.
+
+        Emmeline lives an enchanted childhood on a remote island with her father, who teaches her about the 
+        natural world through her senses. What he won’t explain are the mysterious scents stored in the drawers 
+        that line the walls of their cabin, or the origin of the machine that creates them. As Emmeline grows, 
+        however, so too does her curiosity, until one day the unforeseen happens, and Emmeline is vaulted out 
+        into the real world--a place of love, betrayal, ambition, and revenge. To understand her past, Emmeline 
+        must unlock the clues to her identity, a quest that challenges the limits of her heart and imagination.
+
+        Lyrical and immersive, The Scent Keeper explores the provocative beauty of scent, the way it can reveal 
+        hidden truths, lead us to the person we seek, and even help us find our way back home.
+        - summary:  >
+        - Length: 316 pages
+        - Word Wise: Enabled
+        - Enhanced Typesetting: Enabled
+        - Page Flip: Enabled
+        - Audible book: Available 
