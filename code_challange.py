@@ -9,26 +9,24 @@ a=list(zip(birth_days, birth_months, birth_years))  # Three lists of birth recor
 print(a)
 
 while True:
-    name=input("Please enter your name: ")
+    indeks=0
+    name=input("Please enter your name: ").lower()
     for i in range(len(names)-1):
         if name==names[i]:
             print("You are a customer!")
-            break
+            indeks=i
         else:
             print("You are not a customer!")
-        break
-
-while True:
+        continue
     surname=input("Please enter your surname: ")
-    for i in range(len(names)-1):
+    for i in range(indeks, len(names)-1):
         if surname==surnames[i]:
             print("You are a customer!")
             break
         else:
             print("You are not a customer!")
-        break
-
-while True:
+        continue
+    
     birthday=input("Please enter your birthday (MM/DD/YYYY): ")
     
     b=birthday.split("/")  # This will make input birthdate a list of string numbers
