@@ -38,7 +38,7 @@ while True:
         else:
             # print(surnames.index(surname))
             p=surnames.index(surname)
-            birth_date = input("Please enter your birthday (MM/DD/YYYY):").lower()
+            birth_date = input("Please enter your birthday (MM/DD/YYYY):")
             split_birth_date = birth_date.split('/')
             print(split_birth_date)
             if int(split_birth_date[0]) == birth_months[p] and int(split_birth_date[1]) == birth_days[p] and int(split_birth_date[2]) == birth_years[p]:
